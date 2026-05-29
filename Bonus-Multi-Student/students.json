@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Shweta",
+        "scores":[90,80,70]
+    },
+    {
+        "name":"Priyam",
+        "scores":[78,89,67]
+    },
+    {
+        "name":"Aditya",
+        "scores":[56,45,90]
+    },
+      {
+        "name":"Chandan",
+        "scores":[86,78,96]
+    },
+      {
+        "name":"Pritam",
+        "scores":[90,89,99]
+    }
+]
