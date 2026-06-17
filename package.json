@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "jimp": "^1.6.1",
+    "jsqr": "^1.4.0",
+    "node-telegram-bot-api": "^1.1.0"
+  }
+}
